@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Alien+Block&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Princess+Sofia&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Alien Block", sans-serif;
+    font-family: "Princess Sofia", cursive;
 } 
 body{
     display: grid;
