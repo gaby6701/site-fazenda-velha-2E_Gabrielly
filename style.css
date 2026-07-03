@@ -20,5 +20,6 @@ body{
 .flipbook .paginas{
     background: #A6E9AB;
     color: rgb(252, 134, 136);
-    
+    font-weight: bold;
+    border: none;
 }
