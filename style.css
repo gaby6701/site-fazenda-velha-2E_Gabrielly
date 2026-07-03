@@ -13,3 +13,12 @@ body{
     overflow: hidden;
     background: #A6E9AB
 }
+.flipbook{
+    width: 1000px;
+    height: 600px;
+}
+.flipbook .paginas{
+    background: #A6E9AB;
+    color: rgb(252, 134, 136);
+    
+}
